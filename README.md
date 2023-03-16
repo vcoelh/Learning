@@ -1,2 +1,2 @@
 # Learning JavaScript
- some code that I wrote 
+some little  projects and notes
